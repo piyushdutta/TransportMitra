@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Sample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.kitkat" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="..\..\..\..\TransportMitra\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="..\..\..\..\TransportMitra\Resources\Resource.Designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PSTSSample" expanded="True" />
+          <Node name="TransportMitra" expanded="True">
+            <Node name="TransportMitra" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="Main.axml" selected="True" />
+                </Node>
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
